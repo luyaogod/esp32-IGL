@@ -1,3 +1,3 @@
-#合宇 esp32-c3 图书馆远程签到
+# esp32-c3 模拟"我去图书馆"蓝牙广播
 
-烧录 micorpython 后,使用 Thonny 连接端口后上传 main.py
+烧录 micorpython 后,使用 Thonny 将 main.py 上传至 / 目录，开机即可运行。
